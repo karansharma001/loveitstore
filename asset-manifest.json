@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/loveitstore/static/css/main.d8fa8ab7.chunk.css",
+    "main.js": "/loveitstore/static/js/main.f4df3cd9.chunk.js",
+    "main.js.map": "/loveitstore/static/js/main.f4df3cd9.chunk.js.map",
+    "runtime-main.js": "/loveitstore/static/js/runtime-main.de30daf5.js",
+    "runtime-main.js.map": "/loveitstore/static/js/runtime-main.de30daf5.js.map",
+    "static/js/2.590bcf4c.chunk.js": "/loveitstore/static/js/2.590bcf4c.chunk.js",
+    "static/js/2.590bcf4c.chunk.js.map": "/loveitstore/static/js/2.590bcf4c.chunk.js.map",
+    "index.html": "/loveitstore/index.html",
+    "static/css/main.d8fa8ab7.chunk.css.map": "/loveitstore/static/css/main.d8fa8ab7.chunk.css.map",
+    "static/js/2.590bcf4c.chunk.js.LICENSE.txt": "/loveitstore/static/js/2.590bcf4c.chunk.js.LICENSE.txt",
+    "static/media/cat-one.6f75d595.jpg": "/loveitstore/static/media/cat-one.6f75d595.jpg",
+    "static/media/cat-three.fc0e3aa3.jpg": "/loveitstore/static/media/cat-three.fc0e3aa3.jpg",
+    "static/media/cat-two.26cbbc90.jpg": "/loveitstore/static/media/cat-two.26cbbc90.jpg",
+    "static/media/home.css": "/loveitstore/static/media/hero3.99aa1abe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de30daf5.js",
+    "static/js/2.590bcf4c.chunk.js",
+    "static/css/main.d8fa8ab7.chunk.css",
+    "static/js/main.f4df3cd9.chunk.js"
+  ]
+}
